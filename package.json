@@ -16,7 +16,7 @@
     "@types/aws-lambda": "^8.10.64",
     "@types/jest": "^26.0.14",
     "@types/knex": "^0.16.1",
-    "serverless-bundle": "^3.2.1",
+    "serverless-bundle": "^4.2.2",
     "serverless-dotenv-plugin": "^3.0.0",
     "serverless-offline": "^6.8.0"
   },
